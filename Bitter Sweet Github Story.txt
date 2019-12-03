@@ -4,5 +4,5 @@ STEP 1 - create a repository
 STEP 2	- start and manage a new branch
 STEP 3	- make changes to a file and push them to gitbub as commits 
 STEP 4	- open and merge a pull request
-STEP 5
+STEP 5  - you are making changes to a branch off of master
 STEP 6
