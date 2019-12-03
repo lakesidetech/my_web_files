@@ -1,0 +1,8 @@
+Working with GIT/Github
+
+STEP 1 - create a repository 
+STEP 2	- start and manage a new branch
+STEP 3	- make changes to a file and push them to gitbub as commits 
+STEP 4	- open and merge a pull request
+STEP 5
+STEP 6
